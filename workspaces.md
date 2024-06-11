@@ -1,3 +1,3 @@
 # From workspaces,
 
-# This was edited from etharpad branch
+# This was edited from etharpadRebased branch
